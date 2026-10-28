@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SMSC.ru is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://smsc.ru/
+SMS Центр – сервис для отправки и приема SMS‑сообщений, EMS и бинарные SMS, E‑mail2sms, HLR, MMS, Voice, E‑mail рассылки и другое. Гарантированная доставка сообщений по всему миру, удобные тарифы и API‑интеграция.
+
+**Areas:** SMS · Messaging · Telecommunications · API · Russia
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://smsc.ru/)
+- [Blog](https://blog.smsc.ru/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/smsc/](https://apis.io/providers/smsc/).
